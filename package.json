@@ -3,7 +3,7 @@
     "description": "Modular Discord bot with fun features including twitch commands and advanced osu! commands.",
     "version": "1.0.0",
 	"engines": {
-    "node": "16.x"},
+    "node": "14.x"},
     "main": "index.js",
     "scripts": {
         "start": "git pull; npm i && [ ! -f ./config.json ] && npm run config; node index",
