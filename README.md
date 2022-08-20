@@ -8,6 +8,8 @@
 
 <p align="center"><b><i>Jump to <a href="#Installation">Installation</a>.</b></i></p>
 
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/phantomic12/flowabot)
+
 <h2 align="center">Main Features</h2>
 
 <h3 align="center">Fancy scorecards with unique information like a difficulty graph or unstable rate</h3>
